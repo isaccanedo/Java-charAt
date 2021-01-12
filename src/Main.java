@@ -1,9 +1,14 @@
 
 public class Main {
 	
+	/* +---------------------------------------------
+	 * | @author Isac Canedo
+	 * +---------------------------------------------
+	 */
+	
 	/*
 	 * What is the output of this code?
-	 * (Qual é a saída deste código?)
+	 * (Qual Ã© a saÃ­da deste cÃ³digo?)
 	 * 
 	 * 1 - ello ==> correct
 	 * 2 - The code does not compile
